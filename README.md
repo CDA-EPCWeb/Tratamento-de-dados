@@ -11,8 +11,12 @@ nessa pasta o arquivo csv "casos_full" - disponível no site brasil.io - é proc
 Aqui, trabalhamos com os seguintes arquivos extraído em formato CSV:
 
 - "caso_full.csv", disponível no site [brasil.io](https://brasil.io/dataset/covid19/caso_full/)
+- "pop2020.csv". to do
 
 
 
 
 Nesse momento, vale ponderar que diversos dados podem ser inconsistentes com a realidade, tendo em vista o número de casos subnotificados, bem como dados que podem não ser devidamente encaminhados, registrados ou atualizados pelas Secretarias Estaduais de Saúde.
+
+
+
