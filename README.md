@@ -4,7 +4,7 @@ Este repositório é um trabalho desenvolvido pelo Grupo A do projeto Covid Data
 O repositório esta organizado em uma pasta por tratamento. Cada uma dessas pastas contem um ReadMe detalhando passo a passo como executar sua função.
 
 ## Tratamentos Disponíveis
-#### - Indicadores Epidemiológicos 
+#### Indicadores Epidemiológicos 
 nessa pasta o arquivo csv "casos_full" - disponível no site brasil.io - é processado em um arquivo formato DB contendo 4 dataframes por semana epidemiológica contendo 9 indicadores (novos casos, casos acumulados, novos óbitos, óbitos acumulados, incidencia, letalidade, mortalidade, fator de crescimento e prevalência) para cada, macrorregião, estado, município e para o país como um todo.
 
 ## Bases de Dados Trabalhadas
